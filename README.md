@@ -1,9 +1,2 @@
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabarnouche)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabarnouche)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabarnouche)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabarnouche)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabarnouche&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=tabarnouche)
+![](https://github-readme-stats-kappa-brown.vercel.app/api?username=tabarnouche&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile)
+![](https://github-readme-stats-kappa-brown.vercel.app/api/top-langs?username=tabarnouche&layout=donut)
